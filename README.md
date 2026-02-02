@@ -1,3 +1,12 @@
+Task 2 – CODTECH Internship | AI CHATBOT WITH NLP
+
+COMPANY: CODTECH IT SOLUTIONS
+NAME: ZAID KHAN
+INTERN ID: CTIS0875
+DOMAIN: Python Programming
+DURATION: 6 Weeks
+MENTOR: Neela Santhosh Kumar
+
 # AI Chatbot with NLP
 
 ## Description
