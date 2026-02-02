@@ -1,0 +1,47 @@
+[
+    {
+        "timestamp": "2026-02-02 10:18:25",
+        "user": "hello",
+        "bot": "Hello! How can I help you today?"
+    },
+    {
+        "timestamp": "2026-02-02 10:18:33",
+        "user": "my name is Zaid",
+        "bot": "Nice to meet you, Zaid! What can I do for you?"
+    },
+    {
+        "timestamp": "2026-02-02 10:18:39",
+        "user": "i live in Mumbai",
+        "bot": "Oh, Mumbai! That's a wonderful place! How can I help you today?"
+    },
+    {
+        "timestamp": "2026-02-02 10:18:43",
+        "user": "ok bye",
+        "bot": "Interesting! Tell me more."
+    },
+    {
+        "timestamp": "2026-02-02 10:18:47",
+        "user": "bye",
+        "bot": "Goodbye! Have a great day!"
+    },
+    {
+        "timestamp": "2026-02-02 10:22:48",
+        "user": "hello",
+        "bot": "Hello! How can I help you today?"
+    },
+    {
+        "timestamp": "2026-02-02 10:22:55",
+        "user": "my name is Zaid",
+        "bot": "Nice to meet you, Zaid! What can I do for you?"
+    },
+    {
+        "timestamp": "2026-02-02 10:23:04",
+        "user": "i live in delhi",
+        "bot": "Nice! What brings you here today?"
+    },
+    {
+        "timestamp": "2026-02-02 10:23:10",
+        "user": "bye",
+        "bot": "Goodbye! Have a great day!"
+    }
+]
